@@ -10,6 +10,6 @@ On the top of the page, there is a navigation bar linking to other areas of the 
 This brings to the main content of the page:
 ![screenshot](./assets/images/main-content.jpg)
 
-
+View the website here: https://meggedde.github.io/first-challenge/
 
 
